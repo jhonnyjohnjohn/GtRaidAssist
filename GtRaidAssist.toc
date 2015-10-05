@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: GT Raid Assist
+## Notes: "Clap your hands everybody..."
+## Version: 1.0
+gtraidassist.xml
+core.lua
